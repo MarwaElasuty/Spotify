@@ -1,0 +1,57 @@
+header {  
+    background-color: white;  
+    position: fixed;  
+    left: 0;  
+    right: 0;  
+    top: 5px;  
+    height: 30px;  
+    display: flex;  
+    align-items: center;  
+    box-shadow: 0 0 25px 0 black;  
+    padding: 20px;
+    }  
+    header * {  
+    display: inline;  
+    }  
+    header li {  
+    margin: 70px; 
+    color: black;
+    
+    }  
+
+    .navstyle{
+        margin-left: 100px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+         color: white;
+         
+    }
+    .desc{
+        margin-right: 10px;
+    }
+    
+   
+    .paypal{
+        margin: 10px;
+        float: left;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 35px;
+        margin-left:80px;
+        font-style: italic;
+        color: black
+        
+    }
+    nav {
+        margin-top: 5px;  
+      }
+    .buttonplace{
+    margin-left:330px;    
+    
+    }
+    .image{
+        background-image: url(https://www.paypalobjects.com/webstatic/en_GB/mktg/wright/home/homepage-hero-1x.jpg);
+    }
+    .fa-solid fa-waveform{
+        width: 200px;
+        height: 300px;
+    }
